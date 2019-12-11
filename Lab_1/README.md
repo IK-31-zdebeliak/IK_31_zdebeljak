@@ -4,4 +4,4 @@
 4. Зміни були зроблені в іншій гілці, тому не відображаються.
 
 На мою думку конфлікт виник тому, що частина файлу в двох гілках була змінена по різному. Я прибрав зміни, що заважали. Роблю зміни у Web Git на синхронізую їх з репозиторієм на ПК за допомогою git pull.
-![img](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/images/img.jfif)
+5. ![img](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/images/img.jfif)
