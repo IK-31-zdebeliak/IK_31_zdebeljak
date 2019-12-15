@@ -9,4 +9,4 @@
 9. Роблю коміт.
 10. Створюю Makefile, що буде автоматично запускати процес на віртуальній машині та роблю коміт.
 11. Пререходжу на віртуальну машину , клоную репозиторій та запускаю Makefile.
-12.  ![1](github.com/IK-31-zdebeliak/IK_31_zdebeljak/tree/master/Lab_2/image/1.jpg)
+12.  ![1](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_2/image/1.jpg)
