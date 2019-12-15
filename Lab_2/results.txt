@@ -1,0 +1,32 @@
+============================= test session starts =============================
+platform win32 -- Python 3.7.5, pytest-5.3.2, py-1.8.0, pluggy-0.13.1
+rootdir: C:\Users\sergi\IdeaProjects\IK_31_zdebeljak\Lab_2
+collected 4 items
+
+tests\tests.py ..F.                                                      [100%]
+
+================================== FAILURES ===================================
+__________________________ TestClass.test_home_work ___________________________
+
+self = <tests.tests.TestClass testMethod=test_home_work>
+
+    def test_home_work(self):
+        # Ваш захист
+>       self.assertEqual('Доброго дня', home_work('03:44:30 PM'))
+E       AssertionError: 'Доброго дня' != 'Доброго дня!'
+E       - Доброго дня
+E       + Доброго дня!
+E       ?            +
+
+tests\tests.py:26: AssertionError
+---------------------------- Captured stdout call -----------------------------
+Доброго дня!
+========================= 1 failed, 3 passed in 1.99s =========================
+========================================
+Результат без параметрів: 
+No URL passed to function
+========================================
+Результат з правильною URL: 
+Time is:  03:46:46 PM
+Доброго дня!
+Date is:  12-15-2019
