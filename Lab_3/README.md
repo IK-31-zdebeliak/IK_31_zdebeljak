@@ -9,4 +9,4 @@
 9. Щоб поєднати функції із реальними URL шляхами за якими будуть доступні веб сторінки заповнюю файл page/urls.py згідно зразка.
 10. Запускаю сервер і переконуюсь у тому, що сторінки, що я створив раніше відображаються корректно.
 12. ![3](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_3/3.png)
-13. 
+13. ![4](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_3/4.jpg)
