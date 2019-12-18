@@ -9,4 +9,4 @@
        sudo apt-get install redis-server
 4. Роблю зміни у etc/hosts, для того, щоб перенаправити запити на адресу 127.0.0.1 redis.
 5. Після цього запускаю сервер і переконуюсь, що програма працює.
-6. [1](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_5/1.png)
+6. ![1](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_5/1.png)
