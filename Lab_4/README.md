@@ -17,7 +17,7 @@
        sudo docker build -t hashchenko/lab_4:django -f Dockerfile.site .
        sudo docker images
        sudo docker push hashchenko/lab_4:django
-8. 
+8. https://hub.docker.com/repository/docker/wildbard/lab4
 9. Посилання на скачування імейджа: hashchenko/lab_4:django
 10. Запускаю сервер за допомогою команди sudo docker run -it --name=latest --rm -p 8000:8000 wildbard/lab4:latest
 11. ![3](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_3/3.png)
