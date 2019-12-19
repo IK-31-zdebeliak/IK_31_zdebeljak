@@ -17,7 +17,7 @@
        sudo docker build -t wildbard/lab4:latest -f Dockerfile .
        sudo docker images
        sudo docker push wildbard/lab4:latest
-8. https://hub.docker.com/repository/docker/wildbard/lab4
+8. [Docker Hub](https://hub.docker.com/repository/docker/wildbard/lab4)
 9. Посилання на скачування імейджа: wildbard/lab4:latest
 10. Запускаю сервер за допомогою команди sudo docker run -it --name=latest --rm -p 8000:8000 wildbard/lab4:latest
 11. ![3](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/blob/master/Lab_3/3.png)
